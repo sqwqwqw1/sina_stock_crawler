@@ -1,3 +1,7 @@
+干，原来yfinance是支持我大A的，还找到了几个免费api的量化网站，那没事儿了。
+
+---
+
 ## 新浪财经市场行情爬虫
 
 爬取行情中心（https://vip.stock.finance.sina.com.cn/mkt/#hs_a）的信息，因为是实时信息，建议每个交易日结束之后运行。
